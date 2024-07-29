@@ -1,0 +1,7 @@
+Running: xsim.dir/distance_meter_behav/xsimk.exe -simmode gui -wdb distance_meter_behav.wdb -simrunnum 0 -socket 62207
+Design successfully loaded
+Design Loading Memory Usage: 8252 KB (Peak: 8252 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 8888 KB (Peak: 8888 KB)
+Simulation CPU Usage: 93 ms

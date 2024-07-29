@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed May 22 20:46:27 2024
+# Process ID: 22576
+# Current directory: C:/Users/86188/Desktop/_000_distance_meter/_000_distance_meter.runs/impl_1
+# Command line: vivado.exe -log distance_meter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source distance_meter.tcl -notrace
+# Log file: C:/Users/86188/Desktop/_000_distance_meter/_000_distance_meter.runs/impl_1/distance_meter.vdi
+# Journal file: C:/Users/86188/Desktop/_000_distance_meter/_000_distance_meter.runs/impl_1\vivado.jou
+# Running On: HZQ, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 34204 MB
+#-----------------------------------------------------------
+source distance_meter.tcl -notrace

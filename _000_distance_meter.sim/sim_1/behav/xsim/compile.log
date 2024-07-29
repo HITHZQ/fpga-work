@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86188/Desktop/_000_distance_meter/rtl/beep_led_alarm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module beep_led_alarm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86188/Desktop/_000_distance_meter/rtl/bin_to_bcd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin_to_bcd
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86188/Desktop/_000_distance_meter/rtl/filter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module filter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86188/Desktop/_000_distance_meter/rtl/nixie_display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module nixie_display
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86188/Desktop/_000_distance_meter/rtl/ultrasound_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ultrasound_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86188/Desktop/_000_distance_meter/rtl/distance_meter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module distance_meter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/86188/Desktop/_000_distance_meter/_000_distance_meter.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

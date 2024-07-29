@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../rtl/beep_led_alarm.v" \
+"../../../../rtl/bin_to_bcd.v" \
+"../../../../rtl/filter.v" \
+"../../../../rtl/nixie_display.v" \
+"../../../../rtl/ultrasound_ctrl.v" \
+"../../../../rtl/distance_meter.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
